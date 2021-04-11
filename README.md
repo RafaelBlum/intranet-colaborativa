@@ -11,7 +11,7 @@
 
 <img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+O objetivo deste trabalho será o desenvolvimento de um sistema de intranet social e colaborativa, que possa integrar, informar, satisfazer e engajar mais os colaboradores, favorecendo os interesses da empresa, centralizando a comunicação, divulgando conteúdos, compartilhando dúvidas e informações do que acontece no dia a dia de todos que fazem parte da empresa.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
