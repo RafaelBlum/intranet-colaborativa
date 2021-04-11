@@ -9,7 +9,7 @@
 
 ## Projeto Corporatix intranet social e colaborativa
 
-<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
+<img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
