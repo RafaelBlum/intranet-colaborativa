@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Projeto Corporatix intranet social e colaborativa
+## Projeto Corporatix intranet social e colaborativa 2021
 
 <img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
 
