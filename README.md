@@ -13,7 +13,7 @@
 
 O objetivo deste trabalho será o desenvolvimento de um sistema de intranet social e colaborativa, que possa integrar, informar, satisfazer e engajar mais os colaboradores, favorecendo os interesses da empresa, centralizando a comunicação, divulgando conteúdos, compartilhando dúvidas e informações do que acontece no dia a dia de todos que fazem parte da empresa.
 
-<img align="center" src="bg.jpg" alt="corporatix banner" width="250" height="62">
+<img src="bg.jpg" alt="corporatix banner" style="text-align: center;">
 
 - [](#).
 - [](#).
@@ -24,9 +24,5 @@ O objetivo deste trabalho será o desenvolvimento de um sistema de intranet soci
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
