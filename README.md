@@ -1,4 +1,4 @@
-<img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
+<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="corporatix logo" style="text-align: center;">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
