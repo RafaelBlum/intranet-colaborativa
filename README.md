@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -8,8 +8,6 @@
 </p>
 
 ## Projeto Corporatix intranet social e colaborativa 2021
-
-<img align="center" src="https://corporatix.com.br/logo/img/logo250x62.png" alt="Girl in a jacket" width="250" height="62">
 
 O objetivo deste trabalho será o desenvolvimento de um sistema de intranet social e colaborativa, que possa integrar, informar, satisfazer e engajar mais os colaboradores, favorecendo os interesses da empresa, centralizando a comunicação, divulgando conteúdos, compartilhando dúvidas e informações do que acontece no dia a dia de todos que fazem parte da empresa.
 
