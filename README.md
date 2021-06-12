@@ -1,4 +1,4 @@
-<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="corporatix logo" style="text-align: center;">
+<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="corporatix logo" style="position:absolute; left:50%; top:50%; margin-left:-110px; margin-top:-40px;">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
