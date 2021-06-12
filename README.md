@@ -1,10 +1,7 @@
-<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="corporatix logo" style="position:absolute; left:50%; top:50%; margin-left:-110px; margin-top:-40px;">
+
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<img src="https://corporatix.com.br/logo/img/logo250x62.png" alt="corporatix logo" style="position:absolute; left:50%; top:50%; margin-left:-110px; margin-top:-40px;">
 </p>
 
 ## Projeto Corporatix intranet social e colaborativa 2021
