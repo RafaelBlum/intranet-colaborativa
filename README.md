@@ -25,10 +25,10 @@
 <br>
 
 ## Acesso ao sistema
-[Corporatix.com.br](https://corporatix.com.br) <code>2021</code>
+[Corporatix.com.br](https://corporatix.com.br) <code>versão 1.0.2021</code>
+* versão: "2.0.2022" (Em desenvolvimento)
 
-
-## Packages
+## Pacotes
 * typescript: "~3.4.3"
 * @ionic/angular: "^5.0.0"
 * @angular/cli: "~8.3.23"
@@ -36,28 +36,7 @@
 ## Tecnologias
 1. Faça o download ou clone este repositório;
 
-## Versão nova
-**_feature/seu_nome-sua_feature_**
-
 ## Dúvidas e contato
 * Abra uma Issue;
 * Faça o fork do projeto para sua conta;
 * Nosso modelo de branches é a seguinte **_feature/seu_nome-sua_feature_** *(ou hotfix, ou outra coisa)*.
-
-
-
-
-
-- [](#).
-- [](#).
-- [](#).
-- [](#).
-- [](#).
-- [](#).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-
-
-
-
