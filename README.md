@@ -31,7 +31,6 @@
     <h2><a href="https://corporatix.com.br" target="_blank">Corporatix.com.br</a></h2>
 </span><br>
 
-
 #### Funcionalidades do sistema
 * Login e registro de usuários
 * Confirmações de usuários novos e bloqueio via e-mail do usuário mediante a aprovação do administrador
@@ -70,3 +69,14 @@
 * Portabilidade
 * Reusabilidade
 * Segurança
+
+<h3>Nova versão</h3>
+<p align="justify">
+    Atualmente estou desenvolvendo nova versão 2.0 do projeto com novas funcionalidades, segurança, layouts modernos, codificação seguindo psr-4 e padrões de projeto.
+</p>
+
+Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)](https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blum-237133114s/)](https://www.linkedin.com/in/rafael-blum-237133114s/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
