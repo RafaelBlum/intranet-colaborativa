@@ -6,6 +6,8 @@
          width="300">
 </p>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/RafaelBlum/intranet-colaborativa)
+
 <h1 align="center">Corporatix Intranet social e colaborativa </h1>
 
 
