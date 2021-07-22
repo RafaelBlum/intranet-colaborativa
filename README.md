@@ -28,12 +28,12 @@
 [Corporatix.com.br](https://corporatix.com.br) <code>versão 1.0.2021</code>
 * versão: "2.0.2022" (Em desenvolvimento)
 
-## Pacotes
+## Funcionalidades do sistema
 * typescript: "~3.4.3"
 * @ionic/angular: "^5.0.0"
 * @angular/cli: "~8.3.23"
 
-## Tecnologias
+## Tecnologias backend/frontend
 1. Faça o download ou clone este repositório;
 
 ## Dúvidas e contato
