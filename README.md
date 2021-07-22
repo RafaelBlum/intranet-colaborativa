@@ -46,12 +46,27 @@
 * Questionários com a possibilidade de enumeras perguntas e respostas
 * Unidades e cargos
 * Sistema 100% responsivo
+* Segurança contra ataques
 
 
 #### Tecnologias backend/frontend
-1. Faça o download ou clone este repositório;
+1. Framework Laravel 7.X
+2. Utilização de Helpers e bibliotecas do framework
+3. Php 7.4
+4. ChartJs
+5. MariaDB
+6. Json
+7. javascript
+8. jquery
+9. Html
+10. Css
+11. Bootstrap 4
 
-#### Dúvidas e contato
-* Abra uma Issue;
-* Faça o fork do projeto para sua conta;
-* Nosso modelo de branches é a seguinte **_feature/seu_nome-sua_feature_** *(ou hotfix, ou outra coisa)*.
+#### Requisitos seguidos
+* Usabilidade
+* Manutenibilidade
+* Confiabilidade
+* Desempenho
+* Portabilidade
+* Reusabilidade
+* Segurança
